@@ -42,6 +42,17 @@ Este repositório também é utilizado como laboratório de colaboração. Aqui,
 
 ---
 
+## 🎥 Apresentação
+
+Gravei uma apresentação rápida no YouTube para mostrar a estrutura, os projetos em destaque e como este portfólio reflete minha trajetória:
+
+📺 [Assista aqui](https://youtube.com/shorts/F3JtQNb3HOY?feature=share) 
+
+
+
+
+---
+
 ## 🌐 Integração Profissional
 
 Este repositório está integrado ao meu perfil do LinkedIn como parte do meu portfólio profissional. Você pode visualizar os projetos diretamente no GitHub ou através da aba de "Projetos" no meu LinkedIn:
