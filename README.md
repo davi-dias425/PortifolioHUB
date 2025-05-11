@@ -48,13 +48,6 @@ Este repositório está integrado ao meu perfil do LinkedIn como parte do meu po
 
 🔗 [Meu LinkedIn](https://www.linkedin.com/in/davi-mendes-13728b35b/)
 
----
-
-## 🎥 Apresentação
-
-Gravei uma apresentação rápida no YouTube para mostrar a estrutura, os projetos em destaque e como este portfólio reflete minha trajetória:
-
-📺 [Assista aqui](https://www.youtube.com/seuvideo) 
 
 ---
 
