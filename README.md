@@ -99,8 +99,7 @@ README.md
 ---
 
 ## 🔗 Acesso  
-- PortfolioHUB Online: [link do Google Sites]  
-- Repositório: [https://github.com/seunome/portfoliohub](https://github.com/seunome/portfoliohub)
+- PortfolioHUB Online: (https://sites.google.com/view/davirdiassempreceub/página-inicial?authuser=1) 
 
 ---
 ## 📜 Licença
