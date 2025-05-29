@@ -69,8 +69,40 @@ Estudante de Engenharia de software no UniCeub
 📧 davi.rdias@sempreceub.com  
 🔗 (https://www.linkedin.com/in/davi-mendes-13728b35b/)
 
+
 ---
 
+## 🚀 Funcionalidades  
+- Armazenamento de projetos no Google Drive  
+- Sincronização de eventos via Google Calendar  
+- Controle de versão com Git e GitHub  
+- Site publicado no Google Sites  
+
+
+---
+
+## 🛠️ Tecnologias  
+- Google Workspace  
+- Git e GitHub  
+- ChatGPT  
+
+
+---
+
+## 📂 Estrutura do Repositório  
+/docs  
+/src  
+/assets  
+README.md  
+
+
+---
+
+## 🔗 Acesso  
+- PortfolioHUB Online: [link do Google Sites]  
+- Repositório: [https://github.com/seunome/portfoliohub](https://github.com/seunome/portfoliohub)
+
+---
 ## 📜 Licença
 
 Este repositório está sob a Licença MIT. Sinta-se livre para estudar, reutilizar e contribuir!
